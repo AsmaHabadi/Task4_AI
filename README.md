@@ -1,4 +1,6 @@
 # Task4_AI
+
+## Machine Learning
 In this task, we will train the machine to identify 4 types of fruits. Using the teachable machine website.
 
 First we will determine the number of classes and then download pictures of the fruits:
